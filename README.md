@@ -1,7 +1,5 @@
 ## Film Analysis based on Genre and Gender
 
-![filmbanner_c_Gerd-Altmann_Pixabay.png](attachment:filmbanner_c_Gerd-Altmann_Pixabay.png)
-
 We reproduce general assumptions and prejudices every day. Automated film suggestions are no exception to that since there are based on given similarities. With the present analysis I like to have a closer look at the participation of male and female actors in films that belong to certain genres:
 
 - Is the gender distribution the way we assume it, primarily male protagonists in action and science fiction movies in comparison to more female lead characters in romantic comedy or family movies?
