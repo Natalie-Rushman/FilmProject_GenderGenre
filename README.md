@@ -26,6 +26,7 @@ The dataset was provided with a Public Domain Common Licence by Stéphane Rappen
 <b>actor1_gender:</b> Main starring actors<br>
 <b>actor2_name:</b> Second starring actors<br>
 <b>actor2_gender:</b> Second starring actors<br>
+<b>popularity:</b> TMDB metric to rate popularity<br>
 <b>vote_average:</b> Average score<br>
 <b>vote_count:</b> Number of votes<br>
 <b>imdb_id:</b> Relational IMDB id<br>
